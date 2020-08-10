@@ -96,7 +96,7 @@ inside our `form()` skeleton.
 ## Construct a POST Request Using `fetch()`
 
 Sending a POST request with `fetch()` is more complicated than what we've seen
-up to this point. It still takes a `String` representing the desintation URL as
+up to this point. It still takes a `String` representing the destination URL as
 the first argument, as always. But as we will see below, `fetch()` can also take
 a JavaScript `Object` (`{}`) as the _second_ argument. This `Object` can be
 given certain [properties][p] with certain values in order to change `fetch()`'s
